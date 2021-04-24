@@ -27,11 +27,6 @@ Users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode
 
-### Screenshot
-
-![1](./Screenshots/Screenshot_2021-04-24 React App.png)
-![2](./Screenshots/Screenshot_2021-04-24 React App(1).png)
-![3](./Screenshots/Screenshot_2021-04-24 React App(2).png)
 
 ### Links
 
