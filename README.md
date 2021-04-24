@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshots/Screenshot_2021-04-24 React App.png)
-![](./Screenshots/Screenshot_2021-04-24 React App(1).png)
-![](./Screenshots/Screenshot_2021-04-24 React App(2).png)
+![1](./Screenshots/Screenshot_2021-04-24 React App.png)
+![2](./Screenshots/Screenshot_2021-04-24 React App(1).png)
+![3](./Screenshots/Screenshot_2021-04-24 React App(2).png)
 
 ### Links
 
