@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abdulrahmancodes/fm-rest-countries-api)
-- Live Site URL: [Add live site URL here](https://fm-rest-countries-api.netlify.app/)
+- [solution URL](https://github.com/abdulrahmancodes/fm-rest-countries-api)
+- [live site URL](https://fm-rest-countries-api.netlify.app/)
 
 ## My Process
 
